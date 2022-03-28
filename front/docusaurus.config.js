@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "reNFT Docs",
   tagline: "Lend and rent NFTs",
-  url: "https://docs-renft.vercel.app/",
+  url: "https://docs.renft.io/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
