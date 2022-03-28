@@ -2,34 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **reNFT in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by checking out our V1 dApp [reNFT V1](https://dapp.renft.io/).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Rental Explanation
 
-## Generate a new site
+The lender can start lending by setting a `dailyRentPrice` for the NFT and a `maxRentDuration`.
+The renter would need to specify a `rentDuration` lesser than or equal to the `maxRentDuration` set by the lender and pay the whole price up front for renting (`dailyRentPrice` * `rentDuration`).
 
-Generate a new Docusaurus site using the **classic template**:
+### Collateralized Rental
 
-```shell
-npm init docusaurus@latest my-website classic
-```
+Our collateralized solution has the concept of [collateral](https://www.investopedia.com/terms/c/collateral.asp). If the renter does not return the NFT, the renter when paying the `dailyRentPrice` * `rentDuration` will also pay `collateral`, which should be set to what the NFT is worth. If the renter does not return your NFT, you will keep the collateral amount. This scenario is also known as defaulted.
 
-## Start your site
+### Collateral-Free Rental
 
-Run the development server:
 
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+Our collateral-free solution is the same as our collateral solution, but without collateral.
+The way we enable this is by holding the NFT in our [registry](https://github.com/re-nft/registry) smart contract instead of giving it directly to the renter for the rental duration.
+The app that wants to make use of collateral-free renting must check our registry contract to see if someone is renting.
+This solution requires  direct integration with the app supporting collateral-free rentals.
+Games and events can take advantage of this to enable rentals on their platforms without users risking their NFTs getting defaulted.
+If you're looking to integrate collateral-free rentals, check our [integration guide](./Developers/collateral-free).
