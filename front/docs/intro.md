@@ -13,7 +13,7 @@ We have two front-ends.
 Our old one can be found here for collateralized solutions: [reNFT V1](https://dapp.renft.io/).
 You can also find our collateral-free solution integration for Animetas [here](https://animetas.renft.io).
 
-There is a new version of the front-end that combines the collateral and collateral-free contracts into a single front end. You can find it [here](htpps://v2.renft.io).
+There is a new version of the front-end that combines the collateral and collateral-free contracts into a single front end. You can find it [here](https://v2.renft.io).
 
 ### Rental Explanation
 
