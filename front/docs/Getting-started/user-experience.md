@@ -22,6 +22,13 @@ If you’d like to use a dedicated page, please click [here](https://www.notion.
 
 ## Video tutorials
 How to rent a collateral-free NFT
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=30NNBHxL_wc" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=30NNBHxL_wc"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
 
 How to rent out your NFT collateral-free
 
