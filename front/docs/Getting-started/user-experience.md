@@ -27,4 +27,4 @@ How to rent out your NFT collateral-free
 
 How to rent a collateralized NFT - [Click here](https://youtu.be/Ro2MNmMGtOs)
 
-How to rent out your NFT with collateral
+How to rent out your NFT with collateral [Click here](https://youtu.be/4tQ84BDYtt0)
