@@ -9,7 +9,7 @@ reNFT can be used as a whitelabel solution, this means that you can seamlessly i
 If you prefer to save time, you can also use a dedicated page on the reNFT platform.
 You can find it by clicking [here](https://v2.renft.io/)
 
-An example of a dedicated page on the reNFT v1 platform can be found [here](https://animetas.renft.io/)
+An example of a dedicated page on the reNFT v1 platform can be found [here](https://animetas.renft.io/) <br />
 An example of a collection page that we can tailor to your needs is: [https://v2.renft.io/collections/animetas?ctx=collateral_free](https://v2.renft.io/collections/animetas?ctx=collateral_free)
 
 Options for a dedicated page are:
