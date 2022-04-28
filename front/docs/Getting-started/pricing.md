@@ -18,4 +18,4 @@ We prefer to stake the coins that we receive from your project back into your pr
 
 The implementation should be so easy that you don’t need help from us, but we’re more than happy to help! There will be no implementation costs involved. 
 
-If you’re looking for a tailored solution, look at the ‘Custom solutions’ tab.
+If you’re looking for a tailored solution, please click [here](https://github.com/patrickkool/docs/blob/main/front/docs/Getting-started/FAQ.md#we-want-a-custom-solution-is-that-possible)
