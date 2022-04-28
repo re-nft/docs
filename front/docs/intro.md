@@ -7,6 +7,7 @@ sidebar_position: 1
 ## **What is reNFT?**
 
 reNFT is a multi-chain NFT rental protocol and platform that can be whitelabel integrated into any project to enable collateral-free in-house renting, lending and revenue share (scholarship automation).
+<br>
 
 ## **NFT rentals**
 
