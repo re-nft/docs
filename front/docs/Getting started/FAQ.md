@@ -5,6 +5,10 @@ sidebar_position: 1
 
 # Frequently Asked Questions (FAQ)
 
+## We want a custom solution, is that possible?
+You might have a specific feature that you’d like to see in reNFT. We completely understand that and we’re more than happy to tailor the protocol to your needs. 
+As of now, the reNFT team decides what features are prioritized. This prioritization is based on the transaction volume of the project that requests the feature and the amount of times this feature has been requested. In the future, the DAO will decide what features will be prioritized.
+
 ## Can users pay in the native token of a project?
 
 Yes. When reNFT is integrated in your project, users can pay with your native token.
