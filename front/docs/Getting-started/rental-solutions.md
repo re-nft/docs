@@ -43,5 +43,5 @@ Since the NFT is in the wallet of the renter, an integration with reNFT is not n
 - If the floor prices changes and becomes higher than the collateral, the lender is at risk
 - The renter can take a loan against the rented asset without asking for permission of the lender
 
-## Other rental solutions and their disadvantages
+<## Other rental solutions and their disadvantages>
 <Naz to insert the explanation here>
