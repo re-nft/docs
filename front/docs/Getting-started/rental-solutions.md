@@ -4,6 +4,9 @@
 
 Our collateral-free solution enables NFT rentals without collateral. The way we enable this is by escrowing the NFT in our registry smart contract. The smart contract assigns a use right to the renter when the NFT is rented. The project that wants to make use of collateral-free renting must check our registry contract to see if someone is renting an NFT, therefore this solution requires an integration between the reNFT smart contract and the project. This can be done as easily as pinging the reNFT SDK. Games and events can take advantage of this solution to enable rentals on their platforms without users risking their NFTs getting defaulted. If you're looking to integrate collateral-free rentals, check our [integration guide](https://docs.renft.io/docs/Developers/collateral-free).
 
+![image](https://user-images.githubusercontent.com/83539739/165739841-b47299d1-269e-41c8-bf00-b538afeecc08.png)
+
+
 ## **Traditional rental**
 
 Traditional rental is similar to renting a house. The owner of the NFT decides the daily rental price, the currency he/she wants to get paid in and the maximum rental duration. After putting it up for rent, the renter can decide how lang he/she wants to rent the NFT. The renter is required to pay the total rental price (daily rental price * rental duration). When the tokens have been received in the smart contract, the renter has access to the utility of the NFT.
