@@ -23,7 +23,7 @@ If you’d like to use a dedicated page, please click [here](https://www.notion.
 ## Video tutorials
 How to rent a collateral-free NFT - [Click here](https://www.youtube.com/watch?v=30NNBHxL_wc)
 
-How to rent out your NFT collateral-free
+How to rent out your NFT collateral-free [Click here](https://youtu.be/R2AMZyPN9Xk)
 
 How to rent a collateralized NFT - [Click here](https://youtu.be/Ro2MNmMGtOs)
 
