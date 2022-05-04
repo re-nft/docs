@@ -44,7 +44,3 @@ Since the NFT is in the wallet of the renter, an integration with reNFT is not n
 - The renter can take a loan against the rented asset without asking for permission of the lender
 
 ![image](https://user-images.githubusercontent.com/83539739/165760868-9f168951-26b0-4d71-9210-7c0116385102.png)
-
-
-## Other rental solutions and their disadvantages
-<Naz to insert the explanation here>
