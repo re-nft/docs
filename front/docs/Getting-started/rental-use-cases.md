@@ -8,14 +8,14 @@ This is just a small list of all the endless possibilities of NFT rentals. We ar
 
 ## Gaming assets
 
-A popular NFT game is Axie Infinity where players can let their in-game assets, called Axies, fight against each other and earn Smooth Love Portion tokens through that. (Play-to-earn)
-Playing the game requires you to have at least 3 Axies, so there is a high-cost barrier for new people to even try out the game. To overcome this hurdle the Axie community has created the so-called Axie scholarship program where players can lend out their Axies to other players so they can enjoy the game as well without having to buy Axies. This trend is emerging among all games in the space.
+A popular NFT game is Axie Infinity where players can let their in-game assets, called Axies, fight against each other and earn Smooth Love Potion tokens through that. (Play-to-earn)
+Playing the game requires you to have at least 3 Axies, so there is a high-cost barrier for new people to even try out the game. To overcome this hurdle the Axie community has created the so-called Axie scholarship program where players can lend their Axies to other players so they can play the game without having to buy Axies. This trend is emerging among all games in the space.
 
 ## Event tickets
 
-What if you have an NFT ticket for an event, but you can’t attend the event? You could sell the ticket, but the ticket might have future utility. So if you want to keep the NFT, you can rent it out!
+What if you have an NFT ticket for an event, but you can’t attend the event? You could sell the ticket, but the ticket might have future utility. So if you want to keep the NFT, you can lend it!
 
-Whenever someone rents your ticket, he can attend the event while you keep your NFT and earn money.
+When your ticket is rented, the renter can attend the event while you keep your NFT and earn rent.
 
 ## Virtual land
 
@@ -27,7 +27,7 @@ Users will be able to rent virtual ad spaces and in-game billboards making NFT r
 
 ## Temporary assets
 
-Let's say you have a high-end virtual casino and you require people to wear a full black suite from Louis Vuitton. By enabling rentals, you can still make this casino accessible for people with a smaller budget and therefore you can serve a broader audience.
+What if you have a high-end virtual casino and you require people to wear a full black suite from a major brand. By enabling rentals, you can still make this casino accessible for people with a smaller budget and therefore you can serve a broader audience.
 
 ## Subscriptions
 
