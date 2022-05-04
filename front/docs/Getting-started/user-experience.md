@@ -21,10 +21,10 @@ Options for a dedicated page are:
 If you’d like to use a dedicated page, please click [here](contact.md) to reach out to us.
 
 ## Video tutorials
-How to rent a collateral-free NFT - [Click here](https://www.youtube.com/watch?v=30NNBHxL_wc)
+How to rent a collateral-free NFT - [Click here](https://youtu.be/4Woyb4zwzpw)
 
-How to rent out your NFT collateral-free [Click here](https://youtu.be/R2AMZyPN9Xk)
+How to lend your NFT collateral-free [Click here](https://youtu.be/zO503YTYMi0)
 
-How to rent a collateralized NFT - [Click here](https://youtu.be/Ro2MNmMGtOs)
+How to rent a collateralized NFT - [Click here](https://youtu.be/jC6SOdoAT3Y)
 
-How to rent out your NFT with collateral [Click here](https://youtu.be/4tQ84BDYtt0)
+How to lend your NFT with collateral [Click here](https://youtu.be/cUYSRSANFRQ)
