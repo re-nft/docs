@@ -17,17 +17,17 @@ Yes. When reNFT is integrated in your project, users can pay with your native to
 
 Great question! First of all, building a rental solution is way more complex and time consuming than you might think. Since it’s hard enough already to find a talented team to build a successful project, you should spend their time on your core business, not rental infrastructure.
 
-Secondly, since our core business are rentals, we can introduce new features way faster because we use all the lessons from every project to optimize the reNFT protocol. 
+Secondly, since our core business is rental infrastructure, we optimize the protocol way faster than you would be able to.
 
-Another big reason are our partnerships. We will partner with projects that provide loans with NFTs as a collateral. This means that you can rent out your NFT and get at a loan against it at the same time. 
+Another big reason are our partnerships. We will partner with projects that provide loans with NFTs as a collateral. This means that you can lend your NFT and receive a collateralized loan at the same time.
 
 We also have partnerships with the biggest gaming guilds. We closely work together with them to tailor our protocol to their needs, therefore guilds will stimulate games to work with reNFT in the future.
 
 ## What if someone rents an NFT via the revenue share rental solution, but doesn’t use the NFT?
 
-We don’t have a definitive answer on this question yet, but it’s likely that there will be a button that cancels the rental early.
+We don’t have a definitive answer to this question yet, but it’s likely that there will be a button that cancels the rental early.
 
-## **What if an airdrop is sent to the collateral-free rental contract?**
+## **What if I want to send an airdrop to the renter?**
 
 In this case the project has to look at the API to see who the renter is and airdrop it to that wallet address, instead of the actual NFT holder.
 
@@ -37,7 +37,7 @@ In this case, we will use a custom solution based on what the project desires. I
 
 ## If the smart contract gets hacked, who is responsible?
 
-We extensively test our contracts and let them be audited by renowned parties before launching them. Although we do everything possible to make our smart contracts as safe as possible, we can’t guarantee that they can’t be hacked. If one of the reNFT smart contracts would get hacked, the owner of the NFT is responsible for the loss.
+We extensively test our contracts and let them be audited by renowned parties before launching them. Although we do everything possible to make our smart contracts as safe as possible, we can’t guarantee that they can’t be hacked. If one of the reNFT smart contracts would get hacked, the owner of the NFT is responsible for a potential loss.
 
 The reNFT team at no point has access to any asset.
 
