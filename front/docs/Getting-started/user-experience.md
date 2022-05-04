@@ -18,7 +18,7 @@ Options for a dedicated page are:
 - Change the purple banner to your own banner
 - Your logo
 
-If you’d like to use a dedicated page, please click [here](https://www.notion.so/Contact-1577c551f974418793510e82868362e6) to reach out to us.
+If you’d like to use a dedicated page, please click [here](contact.md) to reach out to us.
 
 ## Video tutorials
 How to rent a collateral-free NFT - [Click here](https://www.youtube.com/watch?v=30NNBHxL_wc)
