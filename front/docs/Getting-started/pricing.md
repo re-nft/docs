@@ -18,4 +18,4 @@ We prefer to stake the coins that we receive from your project back into your pr
 
 The implementation should be so easy that you don’t need help from us, but we’re more than happy to help! There will be no implementation costs involved. 
 
-If you’re looking for a tailored solution, please click [here](faq.md#we-want-a-custom-solution-is-that-possible)
+If you’re looking for a tailored solution, please click [here](FAQ.md#we-want-a-custom-solution-is-that-possible)
