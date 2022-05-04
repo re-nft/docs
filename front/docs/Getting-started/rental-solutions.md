@@ -13,7 +13,7 @@ Traditional rental is similar to renting a house. The owner of the NFT decides t
 
 ### **Example:**
 
-Jack owns a Galaxy Fight Club NFT and wants to put it up for rent. Since Galaxy Fight Club is a partner of reNFT, he decides to use the collateral-free rental solution.
+Jack owns a Galaxy Fight Club NFT and wants to put it up for rent. Since Galaxy Fight Club uses the reNFT protocol, he decides to use the collateral-free rental solution.
 
 Jack wants to receive 20 USDC per day and is prepared to rent out his NFT for 14 days.
 
@@ -29,7 +29,7 @@ reNFT is building a trustless solution for revenue share rentals.
 
 ### **Example:**
 
-Jack owns a Galaxy Fight Club NFT and wants to earn rewards from the game, but doesn’t have time to play. By playing the game, you can earn $GCOIN. Jack decides to rent out the NFT via the collateral-free rental solution of reNFT. While putting the NFT up for rent, Jack determines the revenue split percentage. In this example, we use 50/50.
+Jack owns a Galaxy Fight Club NFT and wants to earn rewards from the game, but doesn’t have time to play. By playing the game, you can earn $GCOIN. Jack decides to lend the NFT via the collateral-free rental solution of reNFT. While putting the NFT up for rent, Jack determines the revenue split percentage. In this example, we use 50/50.
 
 Sam rents the NFT and starts playing the game. After playing for a week, he has earned 100 $GCOIN. Because of the revenue split, Sam receives 50 $GCOIN and Jack does too.
 
@@ -40,7 +40,7 @@ Our collateralized solution actually transfers the NFT to the wallet of the rent
 Since the NFT is in the wallet of the renter, an integration with reNFT is not necessary and therefore you can use the NFT as if you were the owner of it. This is the biggest advantage of collateralized rentals, but there are also a lot of disadvantages. A few of them are:
 
 - A collateral is a huge barrier for people to rent, because rent often makes sense due to a lack of funds
-- If the floor prices changes and becomes higher than the collateral, the lender is at risk
-- The renter can take a loan against the rented asset without asking for permission of the lender
+- If the value of the NFT changes and becomes higher than the collateral, the lender is at risk
+- The renter can use the NFT as collateral for a loan without asking for permission of the lender
 
 ![image](https://user-images.githubusercontent.com/83539739/165760868-9f168951-26b0-4d71-9210-7c0116385102.png)
