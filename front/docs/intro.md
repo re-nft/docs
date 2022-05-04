@@ -13,4 +13,4 @@ reNFT is built for developers that are working on web3 projects. Our goal is tha
 
 ## **NFT rentals**
 
-NFT rentals have many use cases, just like rental has in the real world. Currently, NFT rentals are gaining traction in the gaming industry, but they are also becoming popular for NFTs with access utility. Think about event tickets for example. Click [**here**](https://docs.renft.io/docs/blob/main/front/docs/Getting-started/rental-use-cases) to learn more about rental use cases.
+NFT rentals have many use cases, just like rental has in the real world. Currently, NFT rentals are gaining traction in the gaming industry, but they are also becoming popular for NFTs with access utility. Think about event tickets for example. Click [**here**](Getting-started/rental-use-cases.md) to learn more about rental use cases.
