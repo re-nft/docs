@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Rental Use Cases
 
-This is just a small list of all the endless possibilities of NFT rentals. We are very excited for the creative ideas of the web3 community to leverage the reNFT rental protocol!
+This is just a small list of all the endless possibilities of NFT rentals. We are very excited about the creative ideas of the web3 community to leverage the reNFT rental protocol!
 
 ## Gaming assets
 
@@ -19,17 +19,17 @@ When your ticket is rented, the renter can attend the event while you keep your 
 
 ## Virtual land
 
-What if you want to host an event in the metaverse, but you don’t have (enough) land? You can rent land from a land owner and use his land to host your event! This is way cheaper and easier than buying land yourself.
+What if you want to host an event in the metaverse, but you don’t have (enough) land? You can rent land from a landowner and use his land to host your event! This is way cheaper and easier than buying land yourself.
 
 ## Ad Space
 
-Users will be able to rent virtual ad spaces and in-game billboards making NFT rentals an important economic factor in the new age of digital marketing. We believe over time users will spend more and more time in virtual worlds, experiences and games. Therefore in-game advertising could become an important part of the marketing strategy of companies. Wouldn’t it be amazing to rent an in-game billboard at a great location, just like you would at Times Square in New York?
+Users will be able to rent virtual ad spaces and in-game billboards making NFT rentals an important economic factor in the new age of digital marketing. We believe over time users will spend more and more time in virtual worlds, experiences, and games. Therefore in-game advertising could become an important part of the marketing strategy of companies. Wouldn’t it be amazing to rent an in-game billboard at a great location, just like you would at Times Square in New York?
 
 ## Temporary assets
 
-What if you have a high-end virtual casino and you require people to wear a full black suite from a major brand. By enabling rentals, you can still make this casino accessible for people with a smaller budget and therefore you can serve a broader audience.
+What if you have a high-end virtual casino and you require people to wear a full black suit from a major brand. By enabling rentals, you can still make this casino accessible for people with a smaller budget and therefore you can serve a broader audience.
 
 ## Subscriptions
 
-A great idea for subscriptions are rental pools. You can, for example, let a user pay 100 USDC per month and deliver an automatic weekly digital wardrobe update.
-This would be amazing for people who want to wear new things every week, but don't want the hassle of figuring out what to wear.
+A great idea for subscriptions is rental pools. You can, for example, let a user pay 100 USDC per month and deliver an automatic weekly digital wardrobe update.
+This would be amazing for people who want to wear new things every week, but don't want the hassle of figuring out what to wear. 
