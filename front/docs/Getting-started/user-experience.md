@@ -2,7 +2,7 @@
 
 ## **Whitelabel**
 
-reNFT can be used as a whitelabel solution, this means that you can seamlessly integrate the reNFT protocol in your project while using your own front-end.
+reNFT can be used as a whitelabel solution, this means that you can seamlessly integrate the reNFT protocol in your project while using your front-end.
 
 ## **Dedicated page**
 
@@ -14,8 +14,8 @@ An example of a collection page that we can tailor to your needs can be found [h
 
 Options for a dedicated page are:
 
-- Your own subdomain
-- Change the purple banner to your own banner
+- Your subdomain
+- Change the purple banner to your banner
 - Your logo
 
 If you’d like to use a dedicated page, please click [here](contact.md) to reach out to us.
