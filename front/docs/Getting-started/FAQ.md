@@ -30,7 +30,7 @@ In this case, the project has to look at the API to see who the renter is and ai
 
 ## If the smart contract gets hacked, who is responsible?
 
-We extensively test our contracts and let them be audited by renowned parties before launching them. Although we do everything possible to make our smart contracts as safe as possible, we can’t guarantee that they can’t be hacked. If one of the reNFT smart contracts would get hacked, the owner of the NFT is responsible for a potential loss.
+We extensively test our contracts and let them be audited by renowned parties before launching them. Although we do everything to make our smart contracts as safe as possible, we can’t guarantee that they can’t be hacked. If one of the reNFT smart contracts would get hacked, the owner of the NFT is responsible for a potential loss.
 
 The reNFT team at no point has access to any asset.
 
