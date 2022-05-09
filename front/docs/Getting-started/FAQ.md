@@ -19,7 +19,7 @@ Great question! First of all, building a rental solution is way more complex and
 
 Secondly, since our core business is rental infrastructure, we optimize the protocol way faster than you would be able to.
 
-Another big reason is our partnerships. We will partner with projects that provide loans with NFTs as collateral. This means that you can lend your NFT and receive a collateralized loan at the same time.
+Another big reason is our partnerships. We will partner with projects that enable fractionalization or provide loans with NFTs as collateral. This means that you can lend your NFT and receive a collateralized loan at the same time.
 
 We also have partnerships with the biggest gaming guilds. We closely work together with them to tailor our protocol to their needs, therefore guilds will prefer games to work with reNFT in the future.
 
