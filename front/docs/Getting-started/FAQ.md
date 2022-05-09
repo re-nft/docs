@@ -15,7 +15,7 @@ Yes. When reNFT is integrated into your project, users can pay with your native 
 
 ## Why shouldn’t we build a rental solution ourselves?
 
-Great question! First of all, building a rental solution is way more complex and time-consuming than you might think. Since it’s hard enough already to find a talented team to build a successful project, you should spend their time on your core business, not rental infrastructure.
+Great question! First of all, building a rental solution is way more complex and time-consuming than you might think. Since it’s hard enough already to find a talented team to build a successful project, we believe you should spend their time on your core business, not rental infrastructure.
 
 Secondly, since our core business is rental infrastructure, we optimize the protocol way faster than you would be able to.
 
