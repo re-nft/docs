@@ -12,7 +12,7 @@ The future fee will be a percentage fee per transaction. The revenue will be sha
 
 reNFT is operating as a DAO, therefore we can propose different revenue split options between the integrated project and reNFT. If, for example, your project has a lot of rental volume, we can propose to change the split in favor of your project.
 
-We prefer to stake the coins that we receive from your project back in your ecosystem.
+We prefer to stake the revenue that we receive from your project back into your ecosystem.
 
 ## Implementation costs
 
