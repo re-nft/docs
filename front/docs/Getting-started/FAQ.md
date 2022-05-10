@@ -34,7 +34,7 @@ We extensively test our contracts and let them be audited by renowned parties be
 
 The reNFT team at no point has access to any asset.
 
-Our V1 contracts are not formally audited, but they are reviewed by several developers. You can find the contract here: [https://etherscan.io/address/0xa8d3f65b6e2922fed1430b77ac2b557e1fa8da4a](https://etherscan.io/address/0xa8d3f65b6e2922fed1430b77ac2b557e1fa8da4a)
+Our V1 contracts are not formally audited, but they were reviewed by several developers. You can find the contract here: [https://etherscan.io/address/0xa8d3f65b6e2922fed1430b77ac2b557e1fa8da4a](https://etherscan.io/address/0xa8d3f65b6e2922fed1430b77ac2b557e1fa8da4a)
 
 Our V2 contracts, which will be released soon, will be formally audited.
 
