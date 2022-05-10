@@ -12,11 +12,7 @@ You can find it by clicking [here](https://v2.renft.io/)
 An example of a dedicated page on the reNFT v1 platform can be found [here](https://animetas.renft.io/) <br />
 An example of a collection page that we can tailor to your needs can be found [here](https://v2.renft.io/collections/animetas?ctx=collateral_free)
 
-Options for a dedicated page are:
-
-- Your subdomain
-- Change the purple banner to your banner
-- Your logo
+We change the purple banner in the above for you. Note that we are softly deprecating the v1, and as such will not develop full blown dedicated pages at this point.
 
 If you’d like to use a dedicated page, please click [here](contact.md) to reach out to us.
 
