@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Rental solutions
 
 ## **Collateral-free rental**
