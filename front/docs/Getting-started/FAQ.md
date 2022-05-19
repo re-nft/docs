@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 
-# Frequently Asked Questions (FAQ)
+# Frequently Asked (FAQ)
 
 ## We want a custom solution, is that possible?
 You might have a specific feature that you’d like to see in reNFT. We completely understand that and we’re more than happy to tailor the protocol to your needs. 
